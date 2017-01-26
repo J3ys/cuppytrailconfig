@@ -25,6 +25,8 @@
 		<extension name="cuppytrailbackoffice" />
 		<extension name="cuppytrailfrontend" />
 		<extension name="cuppytrailcockpit" />
+		<extension name="mediaconversion" />
+		<extension name="platformwebservices" />
 
 	</extensions>
 </hybrisconfig>
